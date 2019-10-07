@@ -16,9 +16,12 @@ namespace Gittest
             //zmiana 7
 
             //V2
+<<<<<<< HEAD
             //V3
             //V4
             //V5
+=======
+>>>>>>> parent of 751711a... V3
 
         }
     }
