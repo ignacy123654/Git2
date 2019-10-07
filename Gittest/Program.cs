@@ -15,13 +15,11 @@ namespace Gittest
             //zmiana kolejna
             //zmiana 7
 
-<<<<<<< HEAD
             //V2
             //V3
             //V4
+            //V5
 
-=======
->>>>>>> parent of ef97b4a... V2
         }
     }
 }
